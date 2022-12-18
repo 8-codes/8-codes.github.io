@@ -1,2 +1,6 @@
 # 8-codes.github.io
-8.codes website &amp; blog
+
+This is my personal blog generated with [hugo](https://gohugo.io/)!
+
+Enjoy!
+

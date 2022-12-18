@@ -1,0 +1,4 @@
+baseURL = "https://www.8.codes/"
+languageCode = "en-us"
+theme= "beautifulhugo"
+title = "8.codes"
